@@ -16,7 +16,8 @@ conda install -c conda-forge libwebp
 # edit path variable on line 28 to the destination of your images folder and run generate.py
 python generate.py
 
-# get the html code you want to replace the img tags in with the fallback stuff in a file in the same directory as html_replace.py run and input file name
+# get the html code you want to replace the img tags in with the fallback stuff 
+# in a file in the same directory as html_replace.py run and input file name
 python html_replace.py
 
 ```
